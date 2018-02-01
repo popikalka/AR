@@ -1,0 +1,14 @@
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\bin\x86\Debug\AForge.Vision.GlyphRecognition.dll
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\bin\x86\Debug\AForge.Vision.GlyphRecognition.pdb
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\bin\x86\Debug\AForge.Vision.GlyphRecognition.xml
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\bin\x86\Debug\AForge.dll
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\bin\x86\Debug\AForge.Imaging.dll
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\bin\x86\Debug\AForge.Math.dll
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\obj\x86\Debug\GlyphRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\obj\x86\Debug\AForge.Vision.GlyphRecognition.dll
+C:\Users\Milkey\Desktop\Sources\GlyphRecognition\obj\x86\Debug\AForge.Vision.GlyphRecognition.pdb
+C:\Users\Milkey\Downloads\практика\GlyphRecognition\bin\x86\Debug\AForge.Vision.GlyphRecognition.dll
+C:\Users\Milkey\Downloads\практика\GlyphRecognition\bin\x86\Debug\AForge.Vision.GlyphRecognition.pdb
+C:\Users\Milkey\Downloads\практика\GlyphRecognition\bin\x86\Debug\AForge.Vision.GlyphRecognition.xml
+C:\Users\Milkey\Downloads\практика\GlyphRecognition\obj\x86\Debug\AForge.Vision.GlyphRecognition.dll
+C:\Users\Milkey\Downloads\практика\GlyphRecognition\obj\x86\Debug\AForge.Vision.GlyphRecognition.pdb
