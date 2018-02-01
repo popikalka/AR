@@ -1,0 +1,51 @@
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship1.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship2.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship3.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship4.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship5.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship1_c_0.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship2_c_0.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship3_0.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship4_0.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Content\ship5_0.xnb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Glyph Recognition Studio.exe
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Glyph Recognition Studio.pdb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Controls.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Imaging.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Math.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Video.DirectShow.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Video.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Vision.GlyphRecognition.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Xna3DViewer.dll
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Vision.GlyphRecognition.pdb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\AForge.Vision.GlyphRecognition.xml
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\bin\Debug_x86\Xna3DViewer.pdb
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.csprojResolveAssemblyReference.cache
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.EditGlyphForm.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.GlyphEditorControl.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.MainForm.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.NewGlyphCollectionForm.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.Properties.Resources.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.ImageSelectorForm.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.AboutForm.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.OptionsForm.resources
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.csproj.GenerateResource.Cache
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.exe
+C:\Users\Milkey\Desktop\Sources\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.pdb
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.exe
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.pdb
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.csprojResolveAssemblyReference.cache
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.EditGlyphForm.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.GlyphEditorControl.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.MainForm.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.NewGlyphCollectionForm.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.Properties.Resources.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.ImageSelectorForm.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\GlyphRecognitionStudio.OptionsForm.resources
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\obj\x86\Debug\Glyph Recognition Studio.csproj.GenerateResource.Cache
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\bin\Debug_x86\Glyph Recognition Studio.exe
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\bin\Debug_x86\Glyph Recognition Studio.pdb
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\bin\Debug_x86\AForge.Vision.GlyphRecognition.dll
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\bin\Debug_x86\AForge.Vision.GlyphRecognition.pdb
+C:\Users\Milkey\Downloads\практика\Glyph Recognition Studio\bin\Debug_x86\AForge.Vision.GlyphRecognition.xml
